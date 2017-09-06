@@ -2,7 +2,7 @@
 
 46 slides max, 45 minutes plus questions. breaks for interest, stories, keep in mind Medina's Law
 
-- Opener 
+- Opener
   - Thank you for being here
   - Who I am
   - Questions
@@ -29,7 +29,7 @@
   - Javascript
 
   - Repl
-  
+
 - Architecture
   - Message Bus
   - Flash CPU
@@ -37,7 +37,7 @@
   - Operating System
     - Firmware
     - Program
-  
+
 - MicroPython
   - Editor
   - Process
@@ -49,7 +49,7 @@
       - Start small and work up
       - Comment out
       - Indenting in Python
-      
+
 - Facilities
   - Display
     - Images
@@ -63,13 +63,14 @@
     - Twitter and Snapchat
     - Error Spoofing Story
   - Speech and Music
+  - File System
   - Print
     - USB Serial
       - Raspberry Pi driving in minecraft
   - Bluetooth
     - BLE
     - Micropyton or BLE
-    
+
 - Making an IoT device
   - Wifi ?
   - BLE ?
@@ -85,7 +86,7 @@
   - GCC
   - Yotta
   - SRecord
-  - Process 
+  - Process
     - Build
     - Hex
 
@@ -113,6 +114,8 @@
   - Feedback Forms
 
 Changes:
+- Tiny Lisp in Python?
+  - Inception levels
 
 Prep:
 - Speaker charged
